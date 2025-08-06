@@ -115,6 +115,9 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 [`CC Usage`](https://github.com/ryoppippi/ccusage) &nbsp; by &nbsp; [ryoppippi](https://github.com/ryoppippi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
+[`viberank`](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [sculptdotfun](https://github.com/sculptdotfun) &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A community-driven leaderboard for tracking your Claude Code usage statistics (powered by CC Usage); Featuring a global ranking system, comprehensive usage analytics, interactive profile pages, and multiple easy submission methods.
+
 [`ccexp`](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
